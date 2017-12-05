@@ -24,4 +24,3 @@ Second step, use your tetrisy puzzle finger skills to move these bails to the sp
 
 Next give this a shot and become a real bail thrower!
 
-......Yes country people can code too......
