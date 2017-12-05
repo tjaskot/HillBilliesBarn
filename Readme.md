@@ -23,3 +23,5 @@ First layer of the bails is set on their sides with the grass vertical and rotat
 Second step, use your tetrisy puzzle finger skills to move these bails to the space you want because you probably never threw a real bail in your life (love you all!).
 
 Next give this a shot and become a real bail thrower!
+
+......Yes country people can code too......
